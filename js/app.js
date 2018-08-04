@@ -236,8 +236,8 @@ deck.addEventListener("click", function(event) {
     const stars = getStars();
 
     timeStat.innerHTML = `Your Time was = ${clockTime}`;
-    movesStat.innerHTML = `Total Stars Gotten = ${moves}`;
-    starsStat.innerHTML = `Total Moves Made = ${stars}`;
+    movesStat.innerHTML = `Total Moves Made = ${moves}`;
+    starsStat.innerHTML = `Total Stars Gotten = ${stars}`;
   }
 
 //We get the total number of stars the player gets at the end of the game.
