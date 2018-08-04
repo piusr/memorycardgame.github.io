@@ -14,3 +14,7 @@ Playing the game is simple.
 4. The game ends when you match all objects.
 
 
+## Dependencies
+1.font-awesome.
+2.jQuery 
+3.Bootstrap
