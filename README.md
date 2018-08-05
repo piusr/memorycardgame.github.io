@@ -18,3 +18,11 @@ Playing the game is simple.
 1.font-awesome.
 2.jQuery 
 3.Bootstrap
+
+
+## Playing the game
+
+Here is the link to play the game.
+
+https://piusr.github.io/memorycardgame.github.io/
+
